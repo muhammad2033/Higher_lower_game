@@ -1,2 +1,2 @@
 # Higher_lower_game
-Higher and lowe game using python Language
+Higher and lower game using python Language
